@@ -30,7 +30,7 @@ export const AboutSection = () => {
                 Get In Touch
               </a>
               <a
-                href="/projects/dhanushs%20final%20resume.pdf"
+                href="/Dhanush_Resume.pdf"
                 download="Dhanush_Resume.pdf"
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
               >
